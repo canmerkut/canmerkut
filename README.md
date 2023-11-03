@@ -8,7 +8,9 @@ Hello, I'm Can Merkut, a software developer with a passion for crafting tailored
 
 ## Goals
 
-I have several ambitious goals, a few of which include:
+I have several ambitious goals, and one of my primary objectives is to develop a user-friendly CMS (Content Management System) with a NoSQL database. This CMS aims to provide a straightforward and efficient solution for managing digital content, making it accessible to a wide range of users.
+
+In addition to the CMS project, I'm also working on:
 
 - 🌱 Developing soilless plant cultivation systems.
 - 🚀 Creating a high-speed, specialized NoSQL database.
